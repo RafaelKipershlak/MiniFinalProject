@@ -2,8 +2,6 @@
 
 A client-server application developed to manage the core operations of a library. The system provides a graphical user interface (GUI) for librarians to manage book catalogs, user accounts, and the book loan/return process.
 
-This system was developed as part of our 3rd-year academic coursework.
-
 ## 🚀 Key Features
 * **Client-Server Architecture:** The application separates the user interface (client) from the data management (server) for a robust and scalable design.
 * **Graphical User Interface (GUI):** A user-friendly interface built with JavaFX allows librarians to perform tasks efficiently.
