@@ -17,7 +17,7 @@ My specific responsibilities included:
 * **Policy Implementation:** Implemented the late-return policy, which automatically checks return dates and updates user account status (e.g., "Frozen") in the database if a book is overdue.
 * **Client-Server Communication:** Established the communication between the client (UI) and the server to ensure all return data was synchronized reliably and in real-time.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 * **Languages:** Java
 * **Framework / UI:** JavaFX, Scene Builder
 * **Database:** MySQL
