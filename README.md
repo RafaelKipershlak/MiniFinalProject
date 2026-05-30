@@ -2,13 +2,13 @@
 
 A client-server application developed to manage the core operations of a library. The system provides a graphical user interface (GUI) for librarians to manage book catalogs, user accounts, and the book loan/return process.
 
-## 🚀 Key Features
+##  Key Features
 * **Client-Server Architecture:** The application separates the user interface (client) from the data management (server) for a robust and scalable design.
 * **Graphical User Interface (GUI):** A user-friendly interface built with JavaFX allows librarians to perform tasks efficiently.
 * **Database Integration:** Connects to a MySQL database for all data storage and retrieval, including user information, book inventory, and loan records.
 * **Book Loan & Return Logic:** Includes modules for managing the complete lifecycle of a book loan.
 
-## 💻 My Contribution
+##  My Contribution
 As a member of the development team, I **owned the end-to-end development of the book return module.**
 
 My specific responsibilities included:
@@ -23,5 +23,5 @@ My specific responsibilities included:
 * **Database:** MySQL
 * **Tools:** Eclipse, Git, GitHub Desktop
 
-## 🤝 Team
+##  Team
 This project was a collaborative academic effort, developed by a team of six students. My specific contribution is detailed in the "My Contribution" section above.
